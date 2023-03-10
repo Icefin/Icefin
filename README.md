@@ -14,7 +14,9 @@
   
   <p align="center">Engines & API<br>
     <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Oculus-1C1E20?style=flat-square&logo=Oculus&logoColor=white"/>
     <img src="https://img.shields.io/badge/Unreal-0E1128?style=flat-square&logo=UnrealEngine&logoColor=white"/>
+    <br>
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/> </p><br><br>
   
   <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Icefin&layout=compact"></p>

@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=300&section=header&text=GeonHo's%20GitHub&fontColor=FFFFFF&fontSize=90)
-<h3 align="center"> Hi there I'm studying to be a physics programmer👋
+<h3 align="center"> Hi there I'm studying to be a graphics programmer👋
 
 <h3 align="center">✨ Tech Stack ✨</h3>
 

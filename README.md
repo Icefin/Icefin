@@ -19,7 +19,7 @@
     <br>
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/> </p><br><br>
   
-  <p align="center"><img src="https://github-readme-stats-git-master-icefin.vercel.app/api/top-langs/?username=Icefin&theme=tokyonight&count_private=true&show_icons=true&layout=compact&exclude_repo=Vercel-deploy"></p>
+  <p align="center"><img src="https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=Icefin&theme=tokyonight&count_private=true&show_icons=true&layout=compact&exclude_repo=Vercel-deploy"></p>
   
 <!--
 **Icefin/Icefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

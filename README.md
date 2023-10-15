@@ -1,3 +1,5 @@
+<div align="center">
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0066CC&height=300&section=header&text=GeonHo's%20GitHub&fontColor=FFFFFF&fontSize=90)
 <h3 align="center"> Hi there I'm studying to be a graphics programmer👋
 
@@ -19,8 +21,9 @@
     <br>
     <img src="https://img.shields.io/badge/OpenGL-5586A4?style=flat-square&logo=OpenGL&logoColor=white"/> </p><br><br>
   
-  <p align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Icefin&theme=tokyonight&count_private=true&show_icons=true&layout=compact&exclude_repo=Vercel-deploy"></p>
-  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Icefin&langs_count=8&layout=compact&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
+</div>
 <!--
 **Icefin/Icefin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
